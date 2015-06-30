@@ -214,3 +214,13 @@ ul.faq_list {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+a#register_link {
+    position: absolute;
+    display: block;
+    visibility: hidden;
+    left: 42px;
+    top: 42px;
+    width: 42px;
+    height: 42px;
+}
