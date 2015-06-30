@@ -85,3 +85,89 @@ div.dash {
   margin-right: 35px;
   margin-left: 35px;
 }
+
+div.wood_bg {
+  background-repeat: repeat-y;
+  background-image: url("./assets/part3/wood-bg.png");
+}
+
+#event_schedule {
+  width: 370px;
+  height: 53px;
+  margin-top: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-bottom: 100px
+}
+
+.event_text {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.event_date {
+  color: #EDC442;
+  font-size: 36px;
+  padding-right: 40px;
+  padding-left: 40px;
+  line-height: 45px;
+  margin: 0;;
+}
+
+.event_address {
+  color: white;
+  font-size: 18px;
+  padding-right: 35px;
+  padding-left: 35px;
+  line-height: 30px;
+  margin: 0;
+  margin-bottom: 50px;
+}
+
+.circle {
+	border-radius: 50%;
+	width: 80px;
+	height: 80px;
+  border: 3px red solid;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.event_time {
+  color: white;
+  font-size: 32px;
+  margin: 0;
+  position: relative;
+  top: 8px;
+  
+}
+
+.am_pm {
+  font-size: 14px;
+  color: white;
+  margin-top: 5px;
+}
+
+.agenda_title {
+  color: white;
+  font-size: 22px;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.agenda_info {
+ color: white;
+ font-size: 16px;
+ padding-left: 40px;
+ padding-right: 40px; 
+ line-height: 25px;
+ margin-bottom: 40px;
+}
+
+#fire {
+  width: 300px;
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
