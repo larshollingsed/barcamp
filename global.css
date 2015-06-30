@@ -172,3 +172,45 @@ div.wood_bg {
   margin-top: 60px;
   margin-bottom: 60px;
 }
+
+div.faq {
+  background: #CBECF9;
+}
+
+.faq_font {
+  font-family: Impact, Charcoal, sans-serif;
+  color: #8F5C31;
+}
+
+.faq_title {
+  padding-top: 50px;
+  font-size: 60px;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+.faq_item {
+  font-size: 20px;
+  text-align: left;
+  padding-left: 20px;
+  letter-spacing: 2px;
+}
+
+.faq_bullet {
+    padding-right: 5px;
+    position: relative;
+    top: 3px;
+}
+
+ul.faq_list {
+  font-size: 20px;
+  text-align: left;
+  padding-left: 40px;
+  letter-spacing: 2.5px;
+  list-style-image: url("./assets/part4/plus-bullet.png");
+}
+
+.faq_list li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
