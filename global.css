@@ -78,12 +78,13 @@ body {
   padding-bottom: 50px;
 }
 
-div.dash {
+h1.dash {
   background-repeat: repeat-x;
   background-image: url("./assets/part2/dash-horizontal.png");
   width: 300px;
   margin-right: 35px;
   margin-left: 35px;
+  height: 5px;
 }
 
 div.wood_bg {
