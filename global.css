@@ -90,6 +90,7 @@ h1.dash {
 div.wood_bg {
   background-repeat: repeat-y;
   background-image: url("./assets/part3/wood-bg.png");
+  padding-bottom: 100px;
 }
 
 #event_schedule {
@@ -187,6 +188,7 @@ div.faq {
   font-size: 60px;
   letter-spacing: 10px;
   text-align: center;
+  margin-top: 0;
 }
 
 .faq_item {
@@ -216,7 +218,7 @@ ul.faq_list {
 }
 
 a#register_link {
-    position: absolute;
+    position: relative;
     display: block;
     visibility: hidden;
     left: 42px;
